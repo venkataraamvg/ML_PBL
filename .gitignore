@@ -1,0 +1,23 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / Broken Report Scripts and Files
+fill_report.py
+fill_report_expanded.py
+GridTwin_OS_PBL_Report.docx
+GridTwin_OS_PBL_Report.pdf
+GridTwin_OS_PBL_Report_Final.docx
+GridTwin_OS_PBL_Report_Final.pdf
+media_*.docx
+dashboard_mockup_*.jpg
+
+# OS generated files
+.DS_Store
+Thumbs.db
